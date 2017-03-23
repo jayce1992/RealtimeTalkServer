@@ -1,4 +1,5 @@
 ## Synopsis
+At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 Step 1. Import project to Android Studio or any other IDE in your choice. 
 Step 2. Add a library json-simple-1.1.1.jar to your project, you will need it to work with Yandex Translation API
 ## Code Example

@@ -10,6 +10,8 @@ A short description of the motivation behind the creation and maintenance of the
 Provide code examples and explanations of how to get the project.
 ## API Reference
 Yandex Translation API - https://tech.yandex.com/translate/
+Cloud Speech API - https://cloud.google.com/speech/
+Cloud Translation API - https://cloud.google.com/translate/
 ## Tests
 Describe and show how to run the tests with code examples.
 

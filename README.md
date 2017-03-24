@@ -14,7 +14,7 @@ You will find the lists of Supported languages in Additional references below.
 
 ## Workflow
 
-in process....
+in progress...
 
 ## How to run
 

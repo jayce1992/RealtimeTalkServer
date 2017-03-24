@@ -17,5 +17,3 @@ Android Text to speech API - https://developer.android.com/reference/android/spe
 Cloud Speech API - https://cloud.google.com/speech/
 
 Cloud Translation API - https://cloud.google.com/translate/
-
-

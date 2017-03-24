@@ -1,7 +1,12 @@
 ## Overview
 
+TCP Server implementation of realtime speech translator messenger using Google Speech Recognition API & Yandex Translation API.
 
+The server can serve several clients, but interact with only one of them (I mean it can't broadcast messages).
 
+Server can send and receive voice messages from clients.
+
+Server supports 4 languages: korean, english, russian and french(If you want, you can add new language by slightly modifying code).
 
 ## How to run
 

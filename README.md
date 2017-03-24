@@ -6,6 +6,8 @@ The server can serve several clients, but interact with only one of them (I mean
 
 Server can send and receive voice messages from clients.
 
+It is possible to choose input and output languages(example: from RU to EN).
+
 Server supports 4 languages: korean, english, russian and french(If you want, you can add new language by slightly modifying code).
 
 You will find the lists of Supported languages in Additional references below.

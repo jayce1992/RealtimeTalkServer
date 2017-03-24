@@ -8,6 +8,8 @@ Server can send and receive voice messages from clients.
 
 Server supports 4 languages: korean, english, russian and french(If you want, you can add new language by slightly modifying code).
 
+You will find the lists of Supported languages in Additional References below.
+
 ## How to run
 
 Step 1. Import project to Android Studio or any other IDE in your choice. 
@@ -32,5 +34,8 @@ Cloud Speech API - https://cloud.google.com/speech/
 
 Cloud Translation API - https://cloud.google.com/translate/
 
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
+## Additional References
+
+Yandex Translation API supported languages - https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/
+
+Google API supported languages - https://cloud.google.com/speech/docs/languages

@@ -12,6 +12,10 @@ Server supports 4 languages: korean, english, russian and french(If you want, yo
 
 You will find the lists of Supported languages in Additional references below.
 
+## Workflow
+
+in process....
+
 ## How to run
 
 Step 1. Import project to Android Studio or any other IDE in your choice. 

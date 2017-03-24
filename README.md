@@ -11,6 +11,10 @@ Provide code examples and explanations of how to get the project.
 ## API Reference
 Yandex Translation API - https://tech.yandex.com/translate/
 
+Android Speech API - https://developer.android.com/reference/android/speech/package-summary.html
+
+Android Text to speech API - https://developer.android.com/reference/android/speech/tts/package-summary.html
+
 Cloud Speech API - https://cloud.google.com/speech/
 
 Cloud Translation API - https://cloud.google.com/translate/

@@ -183,7 +183,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     // YANDEX TRANSLATION API
     protected String getJsonStringYandex(String trans, String text) throws IOException, org.json.simple.parser.ParseException {
-        String apiKey = "trnsl.1.1.20170307T034647Z.4992e59ad95c1481.37e8035638e36cc9369098aa87fd483264e86e9e";
+        String apiKey = "your Yandex API key";
         String requestUrl = "https://translate.yandex.net/api/v1.5/tr.json/translate?key="
                 + apiKey + "&lang=" + trans + "&text=" + text;
 

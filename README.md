@@ -1,12 +1,17 @@
 ## Overview
 
-Step 1. Import project to Android Studio or any other IDE in your choice. 
-Step 2. Add a library json-simple-1.1.1.jar to your project, you will need it to work with Yandex Translation API
+
 
 
 ## How to run
 
-Provide code examples and explanations of how to get the project.
+Step 1. Import project to Android Studio or any other IDE in your choice. 
+
+Step 2. Add a library http://www.java2s.com/Code/Jar/j/Downloadjsonsimple111jar.htm to your project, you will need it to work with Yandex Translation API
+
+Step 3. Go to https://tech.yandex.com/keys/get/?service=trnsl and get the API key
+
+Step 4. In MainActivity.java, find the function getJsonStringYandex and replace apiKey to your own key that you got from https://tech.yandex.com/keys/get/?service=trnsl
 
 ## API Reference
 Yandex Translation API - https://tech.yandex.com/translate/

@@ -13,6 +13,9 @@ Step 3. Go to https://tech.yandex.com/keys/get/?service=trnsl and get the API ke
 
 Step 4. In MainActivity.java, find the function getJsonStringYandex and replace apiKey to your own key that you got from https://tech.yandex.com/keys/get/?service=trnsl
 
+Step 5. After that you are ready to run RealtimeTalkServer.
+
+
 ## API Reference
 Yandex Translation API - https://tech.yandex.com/translate/
 

@@ -8,7 +8,7 @@ Server can send and receive voice messages from clients.
 
 Server supports 4 languages: korean, english, russian and french(If you want, you can add new language by slightly modifying code).
 
-You will find the lists of Supported languages in Additional References below.
+You will find the lists of Supported languages in Additional references below.
 
 ## How to run
 
@@ -21,7 +21,6 @@ Step 3. Go to https://tech.yandex.com/keys/get/?service=trnsl and get the API ke
 Step 4. In MainActivity.java, find the function getJsonStringYandex and replace apiKey to your own key that you got from https://tech.yandex.com/keys/get/?service=trnsl
 
 Step 5. After that you are ready to run RealtimeTalkServer.
-
 
 ## API Reference
 Yandex Translation API - https://tech.yandex.com/translate/
